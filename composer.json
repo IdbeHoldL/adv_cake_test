@@ -1,0 +1,14 @@
+{
+    "name": "idbeholdl/adv_cake_test",
+    "type": "prooject",
+    "authors": [
+        {
+            "name": "IdbeHoldL",
+            "email": "mutasov.roman21@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    }
+}
